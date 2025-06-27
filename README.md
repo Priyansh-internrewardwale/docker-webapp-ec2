@@ -59,7 +59,13 @@ This project demonstrates how to Dockerize a simple Node.js app and deploy it on
 
 ## Screenshots (Google Drive)
 
-- Docker running locally: [View]https://drive.google.com/file/d/1FM_LI9r7z67t6qgDTx_bJjTWvfmirHOI/view?usp=drive_link
+- Docker running locally:
+
+###
+
+1. [View]https://drive.google.com/file/d/1FM_LI9r7z67t6qgDTx_bJjTWvfmirHOI/view?usp=drive_link
+2. abc
+
 - EC2 Dashboard: [View]https://drive.google.com/file/d/1x16hnWgH8WYaP5KFmw_FdPgsBSrQcj9Y/view?usp=drive_link
 - SSH Terminal Session: [View]https://drive.google.com/file/d/1PBGH6kafyzkhnWGBIX3Ca6iEbh_ePBCf/view?usp=drive_link
 - App running on EC2 via IP: [View]https://drive.google.com/file/d/1Lia1yLC1djqkSS8lP6VJoosC0Uv1G5ZD/view?usp=drive_link
